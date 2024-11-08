@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/mltpascual",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/mltpascual",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:miguelpascual.life@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}

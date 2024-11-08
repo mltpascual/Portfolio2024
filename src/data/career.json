@@ -1,0 +1,66 @@
+{
+  "career": [
+    {
+      "name": "ING Bank",
+      "href": "https://www.ing.com/",
+      "title": "PEGA Engineer",
+      "logo": "/ing.png",
+      "start": "Oct 2021",
+      "end": "Nov 2023",
+      "description": [
+        "Developed a custom application using PEGA DX API, cutting issue response time to 0.5 milliseconds.",
+        "Automated 200+ regression tests with Playwright and Selenium, reducing production defects.",
+        "Managed 30+ deployments using Microsoft Azure, ensuring smooth releases each sprint."
+      ]
+    },
+    {
+      "name": "Freelance",
+      "href": "",
+      "title": "Web Developer",
+      "logo": "/freelance.png",
+      "start": "Sept 2018",
+      "end": "Nov 2023",
+      "description": [
+        "Built 15+ custom websites on WordPress and Shopify to boost brand visibility for clients.",
+        "Launched e-commerce platforms integrated with C# .NET and SQL Server, increasing online sales.",
+        "Added interactive features using REST APIs and geo-tagging for 5 websites."
+      ]
+    },
+    {
+      "name": "Foods On The Go Corporation",
+      "href": "",
+      "title": "Operations Manager (Consultant)",
+      "logo": "/fotg.png",
+      "start": "Aug 2020",
+      "end": "May 2021",
+      "description": [
+        "Negotiated supplier deals, improving raw material acquisition and lowering costs.",
+        "Streamlined day-to-day operations and improved team coordination for more efficiency."
+      ]
+    },
+    {
+      "name": "Make It Happen Multimedia Production",
+      "href": "",
+      "title": "Web Developer (Intern)",
+      "logo": "/mih.png",
+      "start": "Nov 2019",
+      "end": "Aug 2020",
+      "description": [
+        "Designed a booking inquiry website that boosted client engagement by 30%.",
+        "Enhanced social media presence, increasing engagement by around 30%."
+      ]
+    },
+    {
+      "name": "Life Enrichment Inc.",
+      "href": "",
+      "title": "IT Consultant",
+      "logo": "/life.png",
+      "start": "Nov 2018",
+      "end": "Nov 2019",
+      "description": [
+        "Developed a client booking website, resulting in 25% more appointments.",
+        "Migrated records to a digital system, automating data management."
+      ]
+    }
+  ]
+}

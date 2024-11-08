@@ -1,0 +1,26 @@
+{
+  "education": [
+    {
+      "name": "Red River College Polytechnic",
+      "href": "https://www.rrc.ca/",
+      "title": "Advanced Diploma, Technology Management",
+      "logo": "/rrc.png",
+      "start": "Jan 2024",
+      "end": "Aug 2024",
+      "description": [
+        "GPA (3.92)"
+      ]
+    },
+    {
+      "name": "Adamson University",
+      "href": "https://www.adamson.edu.ph/v1/?page=about",
+      "title": "Bachelors of Science, Information Technology",
+      "logo": "/adu.png",
+      "start": "June 2016",
+      "end": "May 2020",
+      "description": [
+        "Candidate for Best Capstone Mobile Game: Project Re:Earth"
+      ]
+    }
+  ]
+}

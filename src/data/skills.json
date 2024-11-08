@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "name": "Platform & Application Development",
+      "items": [
+        "PEGA",
+        "API Development (Postman, Swagger)"
+      ]
+    },
+    {
+      "name": "Programming & Scripting Languages",
+      "items": [
+        "C#",
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Web & Game Development",
+      "items": [
+        "NodeJS",
+        "JavaScript",
+        "WordPress",
+        "SEO",
+        "Shopify",
+        "Unity3D"
+      ]
+    },
+    {
+      "name": "Automation & Testing",
+      "items": [
+        "Playwright",
+        "Selenium",
+        "Regression Testing"
+      ]
+    },
+    {
+      "name": "Data Management & Visualization",
+      "items": [
+        "MySQL",
+        "Oracle",
+        "Kibana",
+        "Grafana",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "Project Management & Version Control",
+      "items": [
+        "Jira",
+        "Microsoft Project",
+        "ServiceNow",
+        "Git",
+        "Subversion"
+      ]
+    }
+  ]
+} 
