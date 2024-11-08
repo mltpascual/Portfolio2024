@@ -14,4 +14,4 @@ This is a [Next.js](https://nextjs.org/) project showcasing my developer portfol
 
 ---
 
-Thanks for checking out my portfolio! I'm excited to keep improving it and learning from the process. Feel free to explore and reach out if you have any questions.
+Thanks for checking out my portfolio! I'm excited to keep improving it and learning from the process. Feel free to explore and reach out if you have any questions..
