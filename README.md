@@ -45,7 +45,7 @@ To get a local copy up and running, follow these steps:
 
 - **Minimalistic UI**: Built with the Shadcn UI library for a clean and user-friendly experience.
 - **Responsive Design**: Mobile-friendly layout with a theme toggle for light and dark modes.
-- **Contact Page**: A dedicated page for users to reach out via email.
+- **Contact Page**: A dedicated page for users to reach out via email..
 
 ## Technologies Used
 
