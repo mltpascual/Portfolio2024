@@ -1,4 +1,5 @@
 import ContactForm from "@/components/ContactForm";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function ContactPage() {
   return (
@@ -6,6 +7,7 @@ export default function ContactPage() {
       <h1 className="title">Contact me.</h1>
       
       <ContactForm />
+      <Analytics />
     </article>
   );
 }
