@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Next.js</title>
+        <title>Miguel Pascual | Full Stack Web Developer</title>
       </head>
       <body
         className={cn(
