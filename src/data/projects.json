@@ -62,8 +62,7 @@
     {
       "name": "Vectron Trade Corporation",
       "description": "Vectron Trade specializes in innovative trading solutions and services, empowering clients to succeed in the global market.",
-      "href": "https://www.vectrontrade.com/",
-      "image": "/vectron.png",
+      "image": "/vectron2.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -79,7 +78,6 @@
     {
       "name": "Tondo Supply",
       "description": "Tondo Supply provides high-quality, sustainable clothing and accessories. Discover eco-friendly fashion that combines style and responsibility.",
-      "href": "https://tondosupply.com/",
       "image": "/tondo.png",
       "tags": [
         "Shopify",
