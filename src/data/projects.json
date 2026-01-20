@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+      "name": "OrderTaker",
+      "description": "OrderTaker is a comprehensive iOS application designed for bakery businesses to manage orders, track inventory, and analyze sales. Built with SwiftUI and Firebase, it provides a seamless experience for order processing and business insights.",
+      "href": "https://github.com/mltpascual/OrderTaker-IOS",
+      "image": "/projects/ordertaker.png",
+      "tags": [
+        "SwiftUI",
+        "Firebase",
+        "iOS"
+      ],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/mltpascual/OrderTaker-IOS",
+          "icon": "github"
+        }
+      ]
+    },
+    {
       "name": "Bowling 300 PH",
       "description": "Bowling 300 offers top-notch bowling experiences, equipment, and services in the Philippines. Elevate your game with the best in bowling.",
       "href": "https://bowling300.ph/",
