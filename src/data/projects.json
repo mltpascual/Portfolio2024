@@ -4,7 +4,7 @@
       "name": "Bowling 300 PH",
       "description": "Bowling 300 offers top-notch bowling experiences, equipment, and services in the Philippines. Elevate your game with the best in bowling.",
       "href": "https://bowling300.ph/",
-      "image": "/bowling300.png",
+      "image": "/projects/bowling300.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -21,7 +21,7 @@
       "name": "GPD Advisors",
       "description": "GPD Advisors offers expert guidance in insurance and financial planning, helping clients achieve their goals with tailored solutions and personalized service.",
       "href": "https://gpdadvisors.com/",
-      "image": "/gpd.png",
+      "image": "/projects/gpd.png",
       "tags": [
         "WordPress",
         "SEO",
@@ -39,7 +39,7 @@
       "name": "Flappy Bird Clone",
       "description": "A clone implementation of the classic Flappy Bird game built with Next.js, TypeScript, and Tailwind CSS. The game is fully responsive and works on both desktop and mobile devices.",
       "href": "https://flappybird-mltpascual.vercel.app/",
-      "image": "/fp.jpg",
+      "image": "/projects/fp.jpg",
       "tags": [
         "NextJS",
         "TypeScript",
@@ -62,7 +62,7 @@
     {
       "name": "Vectron Trade Corporation",
       "description": "Vectron Trade specializes in innovative trading solutions and services, empowering clients to succeed in the global market.",
-      "image": "/vectron2.png",
+      "image": "/projects/vectron2.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -78,7 +78,7 @@
     {
       "name": "Tondo Supply",
       "description": "Tondo Supply provides high-quality, sustainable clothing and accessories. Discover eco-friendly fashion that combines style and responsibility.",
-      "image": "/tondo.png",
+      "image": "/projects/tondo.png",
       "tags": [
         "Shopify",
         "SEO"
@@ -95,7 +95,7 @@
       "name": "Project Re-Earth",
       "description": "A 2D world-building simulation game focused on environmental restoration. Players rebuild and manage a polluted planet, balancing growth with sustainability. With resource gathering and NPC guidance, the game teaches teenagers about eco-friendly practices in a fun, engaging way.",
       "href": "https://apkpure.com/project-re-earth/com.ProjectReEarth.ProjectReEarth",
-      "image": "/earth.png",
+      "image": "/projects/earth.png",
       "tags": [
         "Unity3D",
         "C#",
@@ -112,7 +112,7 @@
     {
       "name": "Make It Happen Productions",
       "description": "A multimedia company delivering creative services in video production, branding, social media content, and TV commercials. They focus on innovative, strategic solutions to enhance business presence and engagement. Located in Parañaque City.",
-      "image": "/mihsite.png",
+      "image": "/projects/mihsite.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -128,7 +128,7 @@
     {
       "name": "Mirai Asian Trading",
       "description": "A reliable gold trading company specializing in the purchase and sale of gold bars, coins, and jewelry. Committed to secure, transparent transactions and building client trust, Mirai Asian Trading aims to lead the market with integrity and exceptional service.",
-      "image": "/mirai.png",
+      "image": "/projects/mirai.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -144,7 +144,7 @@
     {
       "name": "Simply Foods Corporation",
       "description": "Simply Foods offers a popular line of vinegar products, including Simply Suka, Simply Suka Spicy, and Sweet & Spicy. The brand highlights Filipino tradition and quality, with a friendly logo featuring TV personality Michael Angelo Lobrin, symbolizing joy and a commitment to authentic flavors.",
-      "image": "/simplyfoods.png",
+      "image": "/projects/simplyfoods.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -160,7 +160,7 @@
     {
       "name": "Gently Pure",
       "description": "Gently Pure offers a line of skincare products designed for sensitive skin, emphasizing gentle, natural formulations. The product range includes moisturizers and cleansers focused on everyday skin health.",
-      "image": "/gentlypure.png",
+      "image": "/projects/gentlypure.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -176,7 +176,7 @@
     {
       "name": "Multi-Gyn PH",
       "description": "Multi-Gyn PH specializes in feminine care products addressing intimate health and comfort. With a focus on natural balance, their offerings help prevent and treat common vaginal discomforts.",
-      "image": "/multigyn.png",
+      "image": "/projects/multigyn.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -192,7 +192,7 @@
     {
       "name": "Skintilla Beauty",
       "description": "Founded in 2019, Skintilla Beauty focuses on pampering skincare products, including beauty bundles for all skin types. The brand combines natural ingredients and luxury for an effective, rejuvenating experience.",
-      "image": "/skintilla.png",
+      "image": "/projects/skintilla.png",
       "tags": [
         "WordPress",
         "SEO"
@@ -208,7 +208,7 @@
     {
       "name": "Padre Pio Mountain of Healing",
       "description": "A spiritual sanctuary dedicated to the devotion and healing ministry of Padre Pio. Offers prayer services, guided meditations, and a schedule of masses aimed at fostering faith and healing.",
-      "image": "/pio.png",
+      "image": "/projects/pio.png",
       "tags": [
         "WordPress",
         "SEO"

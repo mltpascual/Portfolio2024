@@ -3,7 +3,7 @@ import LinkWithIcon from "@/components/LinkWithIcon";
 import Projects from "@/components/Projects";
 import Socials from "@/components/Socials";
 import { Button } from "@/components/ui/Button";
-import { ArrowRightIcon, FileDown } from "lucide-react";
+import { ArrowRightIcon, FileDown, FileText } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -15,7 +15,7 @@ export default function Home() {
       <section className="flex flex-col items-start gap-8 md:flex-row-reverse md:items-center md:justify-between">
         <Image
           className="rounded-lg"
-          src="/miguel.jpg"
+          src="/profile/miguel.jpg"
           alt="Photo of Miguel"
           width={175}
           height={175}
@@ -26,10 +26,10 @@ export default function Home() {
           <p className="mt-4 font-light">Full Stack Web Developer</p>
           <p className="mt-2 font-light">📍 Winnipeg, Manitoba 🇨🇦</p>
           <section className="mt-8 flex items-center gap-8">
-            <Link href="/resume.pdf" target="_blank">
+            <Link href="/docs/resume.pdf" target="_blank">
               <Button variant="outline">
                 <span className="font-semibold">Resume</span>
-                <FileDown className="ml-2 size-5" />
+                <FileText className="ml-2 size-5" />
               </Button>
             </Link>
             <Socials />

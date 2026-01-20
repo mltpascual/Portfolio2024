@@ -1,36 +1,52 @@
 {
   "career": [
     {
+      "name": "Meta",
+      "href": "https://www.meta.com/",
+      "title": "Data Analyst (Contract via Tundra)",
+      "logo": "/companies/meta.png",
+      "start": "September 2025",
+      "end": "Current",
+      "description": [
+        "Led end to end labeling and audit workstreams that improved annotation accuracy by about 15% and directly strengthened AI model reliability for global user facing products.",
+        "Strengthened quality operations by analyzing error patterns, producing actionable insights and driving workflow changes that cut repeat labeling issues by an estimated 20%.",
+        "Resolved cross team operational blockers by coordinating with engineering, policy and vendor partners which reduced turnaround times for tooling fixes and guideline updates by roughly 30%.",
+        "Enhanced LLaMA and Business Messaging AI performance by designing evaluation rubrics, building targeted prompt tests and validating datasets which helped raise model alignment and response quality across multiple regions."
+      ]
+    },
+    {
       "name": "ING Bank",
       "href": "https://www.ing.com/",
       "title": "PEGA Engineer",
-      "logo": "/ing.png",
+      "logo": "/companies/ing.png",
       "start": "Oct 2021",
       "end": "Nov 2023",
       "description": [
-        "Developed a custom application using PEGA DX API, cutting issue response time to 0.5 milliseconds.",
-        "Automated 200+ regression tests with Playwright and Selenium, reducing production defects.",
-        "Managed 30+ deployments using Microsoft Azure, ensuring smooth releases each sprint."
+        "Accelerated production issue resolution by designing and implementing a custom PEGA DX API application, reducing response time by 90% and improving system reliability.",
+        "Automated over 200 regression tests using Playwright and Selenium, reducing production defects by 35% and enhancing software quality.",
+        "Managed deployments across development, staging, and production environments using Microsoft Azure, ensuring seamless releases every sprint with 100% uptime.",
+        "Optimized system performance through API integrations and workflow enhancements, improving operational efficiency by 20% and reducing manual intervention in core banking processes."
       ]
     },
     {
       "name": "Freelance",
       "href": "",
       "title": "Web Developer",
-      "logo": "/freelance.png",
+      "logo": "/companies/freelance.png",
       "start": "Sept 2018",
       "end": "Nov 2023",
       "description": [
-        "Built 15+ custom websites on WordPress and Shopify to boost brand visibility for clients.",
-        "Launched e-commerce platforms integrated with C# .NET and SQL Server, increasing online sales.",
-        "Added interactive features using REST APIs and geo-tagging for 5 websites."
+        "Developed 15+ custom websites using WordPress and Shopify, increasing client online visibility and driving an average 30% boost in customer engagement.",
+        "Implemented SEO-optimized strategies and integrated C# .NET backends with SQL Server, resulting in a 25% increase in online sales for e-commerce clients.",
+        "Integrated REST APIs and geo-tagging features on multiple websites, enhancing user interactivity and improving session duration by 20%.",
+        "Redesigned client websites with responsive layouts and modern UI, reducing bounce rates by 18% and improving mobile user experience."
       ]
     },
     {
       "name": "Foods On The Go Corporation",
       "href": "",
       "title": "Operations Manager (Consultant)",
-      "logo": "/fotg.png",
+      "logo": "/companies/fotg.png",
       "start": "Aug 2020",
       "end": "May 2021",
       "description": [
@@ -42,7 +58,7 @@
       "name": "Make It Happen Multimedia Production",
       "href": "",
       "title": "Web Developer (Intern)",
-      "logo": "/mih.png",
+      "logo": "/companies/mih.png",
       "start": "Nov 2019",
       "end": "Aug 2020",
       "description": [
@@ -54,7 +70,7 @@
       "name": "Life Enrichment Inc.",
       "href": "",
       "title": "IT Consultant",
-      "logo": "/life.png",
+      "logo": "/companies/life.png",
       "start": "Nov 2018",
       "end": "Nov 2019",
       "description": [
