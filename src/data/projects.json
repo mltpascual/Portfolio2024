@@ -36,30 +36,6 @@
       ]
     },
     {
-      "name": "Flappy Bird Clone",
-      "description": "A clone implementation of the classic Flappy Bird game built with Next.js, TypeScript, and Tailwind CSS. The game is fully responsive and works on both desktop and mobile devices.",
-      "href": "https://flappybird-mltpascual.vercel.app/",
-      "image": "/projects/fp.jpg",
-      "tags": [
-        "NextJS",
-        "TypeScript",
-        "TailwindCSS",
-        "HTML5"
-      ],
-      "links": [
-        {
-          "name": "Website",
-          "href": "https://flappybird-mltpascual.vercel.app/",
-          "icon": "globe"
-        },
-        {
-          "name": "GitHub",
-          "href": "https://github.com/mltpascual/flappybird",
-          "icon": "github"
-        }
-      ]
-    },
-    {
       "name": "Vectron Trade Corporation",
       "description": "Vectron Trade specializes in innovative trading solutions and services, empowering clients to succeed in the global market.",
       "image": "/projects/vectron2.png",
