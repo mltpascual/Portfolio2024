@@ -36,6 +36,24 @@
       ]
     },
     {
+      "name": "CakePortfolio",
+      "description": "A modern, responsive portfolio website showcasing custom cakes, desserts, and confections. Built with Next.js 16, React 19, and Tailwind CSS.",
+      "href": "https://github.com/mltpascual/CakePortfolio",
+      "image": "/projects/cakeportfolio.png",
+      "tags": [
+        "Next.js 16",
+        "React 19",
+        "Tailwind CSS"
+      ],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/mltpascual/CakePortfolio",
+          "icon": "github"
+        }
+      ]
+    },
+    {
       "name": "GPD Advisors",
       "description": "GPD Advisors offers expert guidance in insurance and financial planning, helping clients achieve their goals with tailored solutions and personalized service.",
       "href": "https://gpdadvisors.com/",
